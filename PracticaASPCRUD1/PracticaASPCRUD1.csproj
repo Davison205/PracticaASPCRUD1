@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\DAL\" />
+    <Folder Include="Models\Business\" />
+    <Folder Include="Models\Abstract\" />
+  </ItemGroup>
+
 </Project>
